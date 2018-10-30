@@ -5,7 +5,9 @@ public class VariableMutation {
 
         System.out.println(a);
 
-        int b = 100 - 7;
+        int b = 100;
+
+        b -= 7;
         // make b smaller by 7
 
         System.out.println(b);
@@ -73,7 +75,10 @@ public class VariableMutation {
         String k = "Apple";
         //fill the k variable with its content 4 times
 
-        System.out.println(k);
+        for (int i = 1; i<4 ; i++) {
+            k = k + "Apple";
+        }
+            System.out.println(k);
 
     }
 }
