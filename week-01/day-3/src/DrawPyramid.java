@@ -11,24 +11,22 @@
 import java.util.Scanner;
 public class DrawPyramid {
     public static void main(String[] args) {
-
-        int userinput = 5;
-        int noOfSpaces = 3;
-        for (j=1; j<=noOfSpaces;j++);
-
-        
-
-
-
-        for (int i = 1; i <= userinput; i++)
+        int row,temp,c,n;
+        Scanner s=new Scanner(System.in);
+        n=s.nextInt();
+        temp = n;
+        for ( row = 1 ; row <= n ; row++ )
         {
-            for (int j = 1; j <= userinput; j++)
-            {
-                if (j<=i)
-                    System.out.print("*");
-            }
-            System.out.println();
-        }
+            for ( c = 1 ; c < temp ; c++ )
+                System.out.print(" ");
 
+            temp--;
+
+            for ( c = 1 ; c <= 2*row - 1 ; c++ )
+                System.out.print("*");
+
+            System.out.println("");
+        }
     }
+
 }
