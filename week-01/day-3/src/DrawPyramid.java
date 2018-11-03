@@ -25,7 +25,7 @@ public class DrawPyramid {
             for ( c = 1 ; c <= 2*row - 1 ; c++ )
                 System.out.print("*");
 
-            System.out.println("");
+            System.out.println();
         }
     }
 

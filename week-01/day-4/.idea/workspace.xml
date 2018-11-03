@@ -2,27 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c67e7b-7d7d-4e4b-bb94-bb477ba76b13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Udemy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-3/src/ParametricAvarage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppendAFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharAndBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreatingANewMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Doubling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatemntsWhiteSpaceIndenting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteShortIntLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-3/src/ChessTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-3/src/DrawDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-3/src/SubStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/LessonNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppendA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChangeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareLenght.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiagonalMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoubleItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/out/production/Workshopday3/DrawPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/out/production/Workshopday3/DrawPyramid.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/src/DrawPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/DrawPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppendAFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppendAFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doubling.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,28 +50,29 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6695" />
+          <entry key="java" value="13277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6695" />
+          <entry key="JAVA" value="13277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -69,56 +83,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byteShortIntLong.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Unique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="132">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#962#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
+        <entry file="file://$PROJECT_DIR$/src/Third.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+            <state relative-caret-position="135">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CharAndBoolean.java">
+        <entry file="file://$PROJECT_DIR$/src/Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="96" selection-start-line="86" selection-start-column="96" selection-end-line="86" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StatemntsWhiteSpaceIndenting.java">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IncrementElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SumAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UniqueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -126,35 +173,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-29">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Doubling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Greet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AppendAFunc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="165">
+              <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -182,9 +202,31 @@
         <option value="$PROJECT_DIR$/src/Operators.java" />
         <option value="$PROJECT_DIR$/src/StatemntsWhiteSpaceIndenting.java" />
         <option value="$PROJECT_DIR$/src/CreatingANewMethod.java" />
-        <option value="$PROJECT_DIR$/src/Doubling.java" />
-        <option value="$PROJECT_DIR$/src/Greet.java" />
         <option value="$PROJECT_DIR$/src/AppendAFunc.java" />
+        <option value="$PROJECT_DIR$/src/Greet.java" />
+        <option value="$PROJECT_DIR$/src/Sum.java" />
+        <option value="$PROJECT_DIR$/src/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/PrintParams.java" />
+        <option value="$PROJECT_DIR$/src/Third.java" />
+        <option value="$PROJECT_DIR$/src/CompareLenght.java" />
+        <option value="$PROJECT_DIR$/src/SumElements.java" />
+        <option value="$PROJECT_DIR$/src/ChangeElement.java" />
+        <option value="$PROJECT_DIR$/src/IncrementElement.java" />
+        <option value="$PROJECT_DIR$/src/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/PrintElement.java" />
+        <option value="$PROJECT_DIR$/src/DiagonalMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Colors.java" />
+        <option value="$PROJECT_DIR$/src/AppendA.java" />
+        <option value="$PROJECT_DIR$/src/SwapElements.java" />
+        <option value="$PROJECT_DIR$/src/DoubleItems.java" />
+        <option value="$PROJECT_DIR$/src/Doubling.java" />
+        <option value="$PROJECT_DIR$/src/UniqueTest.java" />
+        <option value="$PROJECT_DIR$/src/SumAll.java" />
+        <option value="$PROJECT_DIR$/src/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/Unique.java" />
+        <option value="$PROJECT_DIR$/src/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/CharArray.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome.java" />
       </list>
     </option>
   </component>
@@ -195,8 +237,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,33 +263,22 @@
             <path>
               <item name="Workshopday-4" type="b2602c69:ProjectViewProjectNode" />
               <item name="day-4" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workshopday-4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day-4" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="day-4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workshopday-4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day-4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540918033087" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541284303110" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -261,7 +292,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Greet">
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram" />
+      <module name="day-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CharAndBoolean" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="CharAndBoolean" />
       <module name="day-4" />
@@ -269,36 +307,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatingANewMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreatingANewMethod" />
+    <configuration name="CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharArray" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doubling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Doubling" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greet" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="SumElements" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SumElements" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatemntsWhiteSpaceIndenting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StatemntsWhiteSpaceIndenting" />
+    <configuration name="Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unique" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -314,19 +352,20 @@
     <list>
       <item itemvalue="Application.byteShortIntLong" />
       <item itemvalue="Application.CharAndBoolean" />
-      <item itemvalue="Application.Operators" />
-      <item itemvalue="Application.StatemntsWhiteSpaceIndenting" />
-      <item itemvalue="Application.CreatingANewMethod" />
-      <item itemvalue="Application.Doubling" />
-      <item itemvalue="Application.Greet" />
+      <item itemvalue="Application.SumElements" />
+      <item itemvalue="Application.Unique" />
+      <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.Anagram" />
+      <item itemvalue="Application.CharArray" />
+      <item itemvalue="Application.Palindrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Greet" />
-        <item itemvalue="Application.Doubling" />
-        <item itemvalue="Application.CreatingANewMethod" />
-        <item itemvalue="Application.StatemntsWhiteSpaceIndenting" />
-        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.CharArray" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.Unique" />
+        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -342,22 +381,24 @@
       <updated>1540893379236</updated>
       <workItem from="1540893385453" duration="11083000" />
       <workItem from="1540908585346" duration="7204000" />
+      <workItem from="1540972763950" duration="54228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18287000" />
+    <option name="totallyTimeSpent" value="72515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32876712" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
@@ -365,7 +406,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -378,7 +419,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.32875606" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -416,6 +457,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UniqueTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
@@ -462,36 +515,227 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StatemntsWhiteSpaceIndenting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="-300">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Doubling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Greet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="183" column="1" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompareLenght.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChangeElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppendAFunc.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiagonalMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleItems.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppendA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UniqueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IncrementElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unique2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#962#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

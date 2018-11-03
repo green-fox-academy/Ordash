@@ -7,14 +7,15 @@ public class Doubling {
        int baseNum = 123;
         doubling(baseNum);
 
+        System.out.println(doubling(baseNum));
 
     }
 
-    public static void doubling(int inputnum ) {
+    public static int doubling(int inputnum ) {
 
-        int duoubled = 2*inputnum;
+        int doubled = 2*inputnum;
 
-        System.out.println(duoubled);
+        return doubled;
 
     }
 }
