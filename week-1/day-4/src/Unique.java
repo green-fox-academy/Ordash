@@ -9,21 +9,15 @@ import java.util.Arrays;
 public class Unique {
     public static void main(String[] args) {
 
-        int[] arr = {1, 11, 34, 11, 52, 61, 1, 34};
+        int[] arr = {1, 11, 34, 11, 52, 61,33, 78, 33, 45, 67, 1,66,89, 1, 34, 55, 11, 64, 29, 53, 61};
 
         int L = arr.length;
 
 
-        Arrays.sort(arr);
-
-
         int[] nodupes = removeDupes(arr, L);
 
-        System.out.print("Sorted without duplicates: ");
-        for (int k = 0; k <  arr.length; k++) {
-            System.out.print(nodupes[k] + ", ");
-        }
 
+        System.out.println(Arrays.toString(nodupes));
     }
 
     public static int[] removeDupes (int[] arrinput, int Linput) {
@@ -43,15 +37,17 @@ public class Unique {
 
         }
 
+
         arrinput[j++] = arrinput[Linput-1];
 
-        for (int k = 0; k < j; k++) {
-
-            arrinput[k] = arrinput[k];
+        int[] output = new int[arrinput.length-(arrinput.length-j)];
+        for (int k = 0; k < j; k++){
+            output[k] = arrinput[k];
         }
 
 
-        return arrinput;
+
+        return output;
 
     }
 

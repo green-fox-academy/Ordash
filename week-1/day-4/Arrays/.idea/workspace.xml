@@ -2,40 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a8a6ff-8879-4b43-ae40-07fc0792eb91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day-3/src/ChessTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-3/src/DrawDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-3/src/SubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LessonNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/AppendA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/ChangeElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/CompareLenght.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/DiagonalMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/DoubleItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/IncrementElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/PrintElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/SumAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/SumElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/SwapElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Unique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/UniqueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day-3/src/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day-3/src/Pyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-3/out/production/Workshopday3/DrawPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-3/out/production/Workshopday3/DrawPyramid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-3/src/DrawPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-3/src/DrawPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-3/out/production/Workshopday3/ParametricAvarage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-3/out/production/Workshopday3/ParametricAvarage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-3/src/ParametricAvarage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-3/src/ParametricAvarage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/AppendAFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/AppendAFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Doubling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day-4/Unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/day-4/Unique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Unique.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -157,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541284303136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541352002199" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -217,6 +192,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

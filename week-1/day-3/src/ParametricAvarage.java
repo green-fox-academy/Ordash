@@ -16,13 +16,13 @@ public class ParametricAvarage {
         System.out.println("Please enter positive numbers:");
 
 
-        int sumOfNumbers = 0;
-        int avarageOfNumbers = 0;
+        double sumOfNumbers = 0;
+        double avarageOfNumbers = 0;
 
 
         for (int i = 1; i <= 5; i++) {
 
-            int number = scanner.nextInt();
+            double number = scanner.nextInt();
             sumOfNumbers = sumOfNumbers + number;
             avarageOfNumbers = sumOfNumbers /5;
         }
