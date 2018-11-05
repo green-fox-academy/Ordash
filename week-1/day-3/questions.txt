@@ -1,0 +1,6 @@
+ConditionalVariableMutation
+
+-What does it mean: // if a is even increment out by one
+-boolean false — no change
+
+How to store an arrays value after shorten.
