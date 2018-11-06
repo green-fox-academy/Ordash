@@ -31,6 +31,10 @@ public class ArraysBana {
 
         names.add(2, "Moni"); // <-- to assign an element to a specific index.
 
+        System.out.println("+++++++++");
+        System.out.println("Bela".compareTo("Feri"));
+
+        System.out.println("++++++++");
         names.remove(1); //<--- to remove an element from ArrayList
 
         //names.removeRange(6, 7); <-- working only in a special way.
@@ -78,6 +82,24 @@ public class ArraysBana {
         moreNames = nameCopy.toArray();
 
         System.out.println(Arrays.toString(moreNames));
+
+        ArrayList<Integer> numbers = new ArrayList<>();
+
+        numbers.add(8);
+        numbers.add(5);
+        numbers.add(8);
+        numbers.add(3);
+        numbers.add(8);
+        numbers.add(2);
+        numbers.add(8);
+        numbers.add(5);
+        numbers.add(8);
+        numbers.add(9);
+        numbers.add(8);
+
+
+
+
 
 
 

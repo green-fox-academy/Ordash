@@ -32,7 +32,7 @@ public class SubStr {
 
     public static int subStr(String input1, String input2) {
 
-       int index = input1.indexOf(input2);
+       int index = input1.indexOf(input2); // <-- Should be done with for loop!!!
 
        if (index >= 0) {
 

@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e02ba503-d973-4006-a758-c034c16d886c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysBana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UrlFixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppendLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matchmaking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolarSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TakesLonger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TodoPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-1/day-3/src/SubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/src/SubStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/out/production/day-4/arrayExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/out/production/day-4/arrayExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/src/arrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/src/arrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/src/Unique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysBana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysBana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UrlFixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UrlFixer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,22 +35,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2912" />
+          <entry key="java" value="4935" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2912" />
+          <entry key="JAVA" value="4935" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -58,15 +62,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArrayListBasics.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -81,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArraysBana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="283">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +86,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
+        <entry file="file://$PROJECT_DIR$/src/HashMapExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -103,7 +98,64 @@
         <entry file="file://$PROJECT_DIR$/src/UrlFixer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TakesLonger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TodoPrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SolarSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Matchmaking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppendLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -126,9 +178,17 @@
         <option value="$PROJECT_DIR$/src/StringMethods.java" />
         <option value="$PROJECT_DIR$/src/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/ArrayListBasics.java" />
-        <option value="$PROJECT_DIR$/src/ArraysBana.java" />
         <option value="$PROJECT_DIR$/src/SimpleReplace.java" />
         <option value="$PROJECT_DIR$/src/UrlFixer.java" />
+        <option value="$PROJECT_DIR$/src/ArraysBana.java" />
+        <option value="$PROJECT_DIR$/src/HashMapExamples.java" />
+        <option value="$PROJECT_DIR$/src/TakesLonger.java" />
+        <option value="$PROJECT_DIR$/src/ToDoPrint.java" />
+        <option value="$PROJECT_DIR$/src/TodoPrint.java" />
+        <option value="$PROJECT_DIR$/src/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/SolarSystem.java" />
+        <option value="$PROJECT_DIR$/src/Matchmaking.java" />
+        <option value="$PROJECT_DIR$/src/AppendLetter.java" />
       </list>
     </option>
   </component>
@@ -172,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495199870" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541511737115" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,56 +248,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UrlFixer">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList" />
+  <component name="RunManager" selected="Application.AppendLetter">
+    <configuration name="AppendLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppendLetter" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListBasics" />
+    <configuration name="Matchmaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matchmaking" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysBana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysBana" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleReplace" />
+    <configuration name="SolarSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolarSystem" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UrlFixer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UrlFixer" />
+    <configuration name="TodoPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TodoPrint" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleReplace" />
-      <item itemvalue="Application.ArrayList" />
-      <item itemvalue="Application.ArrayListBasics" />
-      <item itemvalue="Application.ArraysBana" />
-      <item itemvalue="Application.UrlFixer" />
+      <item itemvalue="Application.TodoPrint" />
+      <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.SolarSystem" />
+      <item itemvalue="Application.Matchmaking" />
+      <item itemvalue="Application.AppendLetter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UrlFixer" />
-        <item itemvalue="Application.SimpleReplace" />
-        <item itemvalue="Application.ArraysBana" />
-        <item itemvalue="Application.ArrayListBasics" />
-        <item itemvalue="Application.ArrayList" />
+        <item itemvalue="Application.AppendLetter" />
+        <item itemvalue="Application.Matchmaking" />
+        <item itemvalue="Application.SolarSystem" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.TodoPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -251,12 +311,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541356063138</updated>
-      <workItem from="1541356071921" duration="11119000" />
+      <workItem from="1541356071921" duration="24451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11119000" />
+    <option name="totallyTimeSpent" value="24451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -290,7 +350,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
+      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,16 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraysBana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -334,7 +384,31 @@
     <entry file="file://$PROJECT_DIR$/src/UrlFixer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArraysBana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMapExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TodoPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -345,6 +419,44 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TakesLonger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matchmaking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppendLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>

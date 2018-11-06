@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dc39aef-4b56-46f8-8826-2e480c57e68d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-6/src/ArrayListBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-6/src/ArraysBana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-6/src/UrlFixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-6/src/HashMapExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-6/src/TakesLonger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-6/src/TodoPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-1/day-3/src/SubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/src/SubStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/out/production/day-4/arrayExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/out/production/day-4/arrayExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/src/arrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/src/arrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/src/Unique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-6/src/ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-6/src/SimpleReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/src/SimpleReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6/src/ArraysBana.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/src/ArraysBana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6/src/UrlFixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/src/UrlFixer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +25,7 @@
     <session id="1977314791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -128,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495199888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541504049954" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>

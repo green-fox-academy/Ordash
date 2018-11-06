@@ -22,7 +22,7 @@ public class Unique {
 
     public static int[] removeDupes (int[] arrinput, int Linput) {
 
-        Arrays.sort(arrinput);
+        Arrays.sort(arrinput); // <--the sort should be implemented by myself with for loop
         int j = 0;
 
 
