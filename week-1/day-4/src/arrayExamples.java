@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class arrayExamples {
      public static void main(String[] args) {
          int jane = 3;
@@ -24,5 +26,18 @@ public class arrayExamples {
 
          final boolean[] booleans = new boolean [2];
          booleans[0] = true;
+
+         int[] items = {3, 5, 9, 15};
+
+         int total =0;
+       //    type identifier
+       //      |  |
+         for (int x: items) { // <--enhanced for loop to get the total amount.
+
+              total += x;
+         }
+         //total /= items.length; // <-- with this will give the average.
+         System.out.println(total);
+
      }
 }

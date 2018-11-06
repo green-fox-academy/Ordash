@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c67e7b-7d7d-4e4b-bb94-bb477ba76b13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/day-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-5/src/PowerOfThor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/day-6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/SimpleReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ArrayListBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ArraysBana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/UrlFixer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/out/production/Workshopday3/ConditionalVariableMutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/out/production/Workshopday3/ConditionalVariableMutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/ConditionalVariableMutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/ConditionalVariableMutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-4/arrayExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-4/arrayExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/SimpleReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/src/SimpleReplace.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,25 +64,34 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="405" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="405" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Unique.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Third.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,11 +164,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -186,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/arrayExamples.java" />
         <option value="$PROJECT_DIR$/src/byteShortIntLong.java" />
         <option value="$PROJECT_DIR$/src/FloatAndDouble.java" />
         <option value="$PROJECT_DIR$/src/CharAndBoolean.java" />
@@ -219,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/CharArray.java" />
         <option value="$PROJECT_DIR$/src/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Unique.java" />
+        <option value="$PROJECT_DIR$/src/arrayExamples.java" />
       </list>
     </option>
   </component>
@@ -267,7 +278,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541352002167" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495199844" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Unique">
+  <component name="RunManager" selected="Application.arrayExamples">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Anagram" />
       <module name="day-4" />
@@ -314,13 +325,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse" />
-      <module name="day-4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumElements" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="SumElements" />
       <module name="day-4" />
@@ -330,6 +334,13 @@
     </configuration>
     <configuration name="Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unique" />
+      <module name="day-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayExamples" />
       <module name="day-4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -347,18 +358,18 @@
       <item itemvalue="Application.CharAndBoolean" />
       <item itemvalue="Application.SumElements" />
       <item itemvalue="Application.Unique" />
-      <item itemvalue="Application.Reverse" />
       <item itemvalue="Application.Anagram" />
       <item itemvalue="Application.CharArray" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.arrayExamples" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayExamples" />
         <item itemvalue="Application.Unique" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.CharArray" />
         <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -375,18 +386,18 @@
       <workItem from="1540893385453" duration="11083000" />
       <workItem from="1540908585346" duration="7204000" />
       <workItem from="1540972763950" duration="59525000" />
-      <workItem from="1541353368490" duration="1261000" />
+      <workItem from="1541353368490" duration="3183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79073000" />
+    <option name="totallyTimeSpent" value="80995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,7 +411,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -414,7 +425,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -478,13 +489,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/byteShortIntLong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -710,6 +714,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
         </state>
       </provider>
     </entry>
