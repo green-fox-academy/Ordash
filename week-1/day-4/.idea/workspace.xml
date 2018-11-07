@@ -2,21 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c67e7b-7d7d-4e4b-bb94-bb477ba76b13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/AppendLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/HashMapExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Matchmaking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/SolarSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/TakesLonger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/TodoPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Candyshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ElementFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/HeWillNever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/IsInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/QuoteSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/day-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/CenterBoxFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/CenteredSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/Checkerboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/ColoredBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/ConnectTheDots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/Diagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/DrawingTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/DrawingTutorial2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/FourRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/FunctionToCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/GoToCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/HorizontalLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/LineInTheMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PositionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PurpleSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PurpleSteps3d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/RainbowBoxFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/StarryNight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/SubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/SubStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-2/day-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/ArraysBana.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ArraysBana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/UrlFixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/src/UrlFixer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +88,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -84,7 +102,7 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -106,37 +124,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CharAndBoolean.java">
+        <entry file="file://$PROJECT_DIR$/src/DiagonalMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Anagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StatemntsWhiteSpaceIndenting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="285">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -160,6 +151,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwapElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppendA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CompareLenght.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -169,19 +196,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
+        <entry file="file://$PROJECT_DIR$/src/PrintElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            <state relative-caret-position="150">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -282,7 +300,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541511495292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541607950053" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -390,18 +408,18 @@
       <workItem from="1540893385453" duration="11083000" />
       <workItem from="1540908585346" duration="7204000" />
       <workItem from="1540972763950" duration="59525000" />
-      <workItem from="1541353368490" duration="4534000" />
+      <workItem from="1541353368490" duration="6005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82346000" />
+    <option name="totallyTimeSpent" value="83817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +447,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
+      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.32875606" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -540,16 +558,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/CompareLenght.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SumElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -567,27 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AppendAFunc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DiagonalMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -602,36 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Colors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#873#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwapElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppendA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#584#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,27 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SumAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CreatingANewMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -707,10 +647,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
+    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiagonalMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -721,10 +682,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompareLenght.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppendA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
