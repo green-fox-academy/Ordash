@@ -2,39 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c67e7b-7d7d-4e4b-bb94-bb477ba76b13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/Candyshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/ElementFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/HeWillNever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/IsInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-6/src/QuoteSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/day-7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/CenterBoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/CenteredSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/Checkerboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/ColoredBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/ConnectTheDots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/Diagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/DrawingTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/DrawingTutorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/FourRectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/FunctionToCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/GoToCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/HorizontalLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/LineInTheMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PositionSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PurpleSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/PurpleSteps3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/RainbowBoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-2/day-7/src/StarryNight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-2/day-9/src/LinePlayArrayListMulti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/StudentCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/src/StudentCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-6/src/SubInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/src/SubInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-7/src/StarryNight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-7/src/StarryNight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-9/src/LinePlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/src/LinePlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-9/src/LinePlayArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/src/LinePlayArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-9/src/LineplayMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/src/LineplayMulti.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -266,7 +245,9 @@
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -300,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541607950053" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541702501108" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
