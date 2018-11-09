@@ -18,7 +18,7 @@ public class DrawDiamond {
             System.out.println();
         }
 
-        for ( row = 9; row >=0; row--)
+        /*for ( row = 9; row >=0; row--)
         {
             for ( space = 0; space <=10-row; space++)
             {
@@ -32,7 +32,7 @@ public class DrawDiamond {
 
             System.out.println();
         }
-
+*/
 
 
     }

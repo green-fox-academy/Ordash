@@ -27,11 +27,9 @@ public class Checkerboard {
                     x += 2*box;
                 }
 
-
             }
             x = 0;
             y += box;
-
 
         }
 
