@@ -52,8 +52,7 @@ public class StudentCounter{
             tempMap = map.get(i);
 
 
-            Object candies = tempMap.get("candies");
-            int candy = (int) candies;
+            int candy = (int) tempMap.get("candies");
 
 
             if(candy > 4) {
@@ -63,7 +62,7 @@ public class StudentCounter{
 
 
         }
-        //  - Sum the age of people who have lass than 5 candies
+        //  - Sum the age of people who have less than 5 candies
         double sumOfAges=0;
         for (int j = 0; j < map.size() ; j++) {
 
@@ -72,11 +71,11 @@ public class StudentCounter{
 
 
             int candy = (int) tempMap.get("candies");
-            int ageDouble = (int) tempMap.get("age");
+            int ageInt = (int) tempMap.get("age");
 
 
             if(candy < 5) {
-                sumOfAges += ageDouble;
+                sumOfAges += ageInt;
 
             }
 

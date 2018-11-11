@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e02ba503-d973-4006-a758-c034c16d886c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-9/src/DrawOutTheWinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/EnvelopeStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/For_Each.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/JesperLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/LinePlayQuarters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/LotteryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/Triangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessMyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-9/src/JesperTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-9/src/PitnerTriangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-9/src/Triangles2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/day-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/DividedByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/PrintEachLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/assets/my-file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-3/out/production/Workshopday3/DrawDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/out/production/Workshopday3/DrawDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-3/src/DrawDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/src/DrawDiamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-7/src/Checkerboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-7/src/Checkerboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7/src/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-7/src/RandomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-9/src/LineplayMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/src/LineplayMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9/src/EnvelopeStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/src/EnvelopeStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/src/Triangles.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,28 +35,29 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="59" />
+          <entry key="java" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8887" />
+          <entry key="java" value="10437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8887" />
+          <entry key="JAVA" value="10437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -62,21 +67,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudentCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="413">
+              <caret line="77" column="35" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
               <folding>
                 <element signature="e#153#174#0" expanded="true" />
               </folding>
@@ -85,10 +81,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringMethods.java">
+        <entry file="file://$PROJECT_DIR$/src/SubInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GuessMyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="45" column="64" lean-forward="true" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +155,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArraysBana.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
@@ -200,8 +211,9 @@
         <option value="$PROJECT_DIR$/src/QuoteSwap.java" />
         <option value="$PROJECT_DIR$/src/Calculator.java" />
         <option value="$PROJECT_DIR$/src/HeWillNever.java" />
-        <option value="$PROJECT_DIR$/src/StudentCounter.java" />
         <option value="$PROJECT_DIR$/src/SubInt.java" />
+        <option value="$PROJECT_DIR$/src/StudentCounter.java" />
+        <option value="$PROJECT_DIR$/src/GuessMyNumber.java" />
       </list>
     </option>
   </component>
@@ -211,7 +223,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -247,7 +259,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541773130315" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541958667413" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -263,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse">
+  <component name="RunManager" selected="Application.GuessMyNumber">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="day-6" />
@@ -271,8 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeWillNever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeWillNever" />
+    <configuration name="GuessMyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessMyNumber" />
       <module name="day-6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -301,18 +314,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.HeWillNever" />
       <item itemvalue="Application.StudentCounter" />
       <item itemvalue="Application.SubInt" />
       <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.GuessMyNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.StudentCounter" />
+        <item itemvalue="Application.GuessMyNumber" />
         <item itemvalue="Application.SubInt" />
+        <item itemvalue="Application.StudentCounter" />
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.HeWillNever" />
       </list>
     </recent_temporary>
   </component>
@@ -327,14 +340,15 @@
       <option name="presentableId" value="Default" />
       <updated>1541356063138</updated>
       <workItem from="1541356071921" duration="55460000" />
+      <workItem from="1541942593616" duration="10391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55460000" />
+    <option name="totallyTimeSpent" value="65851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -365,7 +379,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.31744748" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.45153475" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -418,13 +432,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/HashMapExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -467,16 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TakesLonger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -498,41 +496,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TodoPrint.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        <state relative-caret-position="285">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayListBasics.java">
+    <entry file="file://$PROJECT_DIR$/src/StringMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeWillNever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -546,27 +520,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeWillNever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListBasics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#153#174#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/TodoPrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="120">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentCounter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -574,6 +569,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="77" column="35" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
+          <folding>
+            <element signature="e#153#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuessMyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="45" column="64" lean-forward="true" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

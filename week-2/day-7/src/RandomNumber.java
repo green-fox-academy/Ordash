@@ -28,5 +28,11 @@ public class RandomNumber {
         System.out.println(Math.round(Math.random()*62000000));
         // 22356456
 
+        for (int i = 0; i < 100; i++) {
+
+            System.out.println((int)(150+(Math.random()*51)));
+        }
+
+
     }
 }
