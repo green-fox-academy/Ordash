@@ -14,13 +14,19 @@ public class PrintEachLine {
             Path filepath = Paths.get("assets/my-file.txt");
             List<String> lines = Files.readAllLines(filepath);
 
-            while (int )
-            System.out.println(lines.get(0));
+
+
+            for (int i = 0; i < lines.size(); i++) {
+                System.out.println(lines.get(i));
+
+            }
+//            int iteration = 0;
+//            while(lines.size() >0)
+//            System.out.println(lines.get(iteration));
+//            iteration++;
 
         } catch (Exception e) {
-
-
-
+            System.out.println("File is not readable.");
 
         }
 

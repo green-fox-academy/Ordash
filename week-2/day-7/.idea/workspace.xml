@@ -5,26 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb8ccc00-b303-4329-9747-943f948e508e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-6/src/GuessMyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/JesperTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/PitnerTriangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-9/src/Triangles2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/day-10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/DividedByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/PrintEachLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/assets/my-file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/LogSrc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/draw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/duplicated-chars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/my-file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/my-file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/reversed-lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/win-o.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/assets/win-x.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/CountLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/Doubled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/Logs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/ReversedLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/WriteMultipleLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-10/src/WriteSingleLine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-6/src/StudentCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/src/StudentCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-9/src/EnvelopeStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/src/EnvelopeStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-9/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-9/src/Triangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9/src/JesperLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9/src/JesperTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9/src/PitnerTriangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3/day-10/src/PrintEachLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-10/src/PrintEachLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3/day-10/src/assets/my-file.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +43,7 @@
     <session id="1584287783">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -269,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541958667394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542054390690" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -371,7 +377,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

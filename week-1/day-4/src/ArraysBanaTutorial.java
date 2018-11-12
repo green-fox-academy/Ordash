@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class LessonNine {
+public class ArraysBanaTutorial {
 
     public static void main(String[] args){
 
