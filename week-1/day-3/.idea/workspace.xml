@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39352542-62bc-4c07-ad95-d14201c3d20d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/day-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" afterDir="false" />
@@ -288,9 +295,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -323,7 +329,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542057414862" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542061915303" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -633,6 +639,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979592" visible="true" weight="0.25686592" />
       <window_info id="Structure" order="1" sideWeight="0.5020408" side_tool="true" weight="0.2536349" />
