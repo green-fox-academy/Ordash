@@ -2,17 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f86a3d81-53da-4135-9ed4-4a9fdaeffc10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/day-11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/src/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-11/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Animal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/BlogPost/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/BlogPost/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Counter/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/DiceSet/DiceSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Dominoes/Domino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Dominoes/Dominoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/FleetOfThings/Fleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/FleetOfThings/FleetOfThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/FleetOfThings/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Pokemon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Pokemon/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/PostIt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/PostIt/PostIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Sharpie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/Sharpie/Sharpie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-11/src/fiveTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-2/day-9/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-2/day-9/src/Triangles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-11/day-11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11/day-11.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Logs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Doubled.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
@@ -110,7 +125,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReversedOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -240,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542061915364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542127302561" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -325,12 +340,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541953957073</updated>
-      <workItem from="1541953960522" duration="30990000" />
+      <workItem from="1541953960522" duration="32447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30990000" />
+    <option name="totallyTimeSpent" value="32447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -341,7 +356,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -371,18 +386,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Logs.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DividedByZero.java">
@@ -480,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Logs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TicTacToe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -510,16 +503,6 @@
     <entry file="file://$PROJECT_DIR$/assets/reversed-lines.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Doubled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReversedLines.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -537,6 +520,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

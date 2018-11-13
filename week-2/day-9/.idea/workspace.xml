@@ -2,17 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9386036-8a6d-442d-a911-beae3c62a07c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/day-11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Animal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/BlogPost/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/BlogPost/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Counter/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/DiceSet/DiceSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Dominoes/Domino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Dominoes/Dominoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/FleetOfThings/Fleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/FleetOfThings/FleetOfThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/FleetOfThings/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Pokemon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Pokemon/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/PostIt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/PostIt/PostIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Sharpie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/Sharpie/Sharpie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-3/day-11/src/fiveTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-1/day-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3/day-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-3/day-11/day-11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11/day-11.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EnvelopeStar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Triangles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="168">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,7 +126,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LotteryDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -178,8 +193,8 @@
         <option value="$PROJECT_DIR$/src/EnvelopeStar.java" />
         <option value="$PROJECT_DIR$/src/JesperTriangle.java" />
         <option value="$PROJECT_DIR$/src/Triangles2.java" />
-        <option value="$PROJECT_DIR$/src/Triangles.java" />
         <option value="$PROJECT_DIR$/src/PitnerTriangles.java" />
+        <option value="$PROJECT_DIR$/src/Triangles.java" />
       </list>
     </option>
   </component>
@@ -224,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542061915241" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542127302478" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -243,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PitnerTriangles">
+  <component name="RunManager" selected="Application.Triangles">
     <configuration name="DrawOutTheWinner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawOutTheWinner" />
       <module name="day-9" />
@@ -288,8 +303,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PitnerTriangles" />
         <item itemvalue="Application.Triangles" />
+        <item itemvalue="Application.PitnerTriangles" />
         <item itemvalue="Application.Triangles2" />
         <item itemvalue="Application.DrawOutTheWinner (1)" />
         <item itemvalue="Application.JesperTriangle" />
@@ -306,7 +321,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541608172375</updated>
-      <workItem from="1541608178699" duration="62348000" />
+      <workItem from="1541608178699" duration="64125000" />
     </task>
     <servers />
   </component>
@@ -316,7 +331,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62348000" />
+    <option name="totallyTimeSpent" value="64125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -327,7 +342,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24959612" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -335,7 +350,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3561644" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3561644" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -662,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/For_Each.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/com/apple/laf/ClientPropertyApplicator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -680,16 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="317" column="50" lean-forward="true" selection-start-line="317" selection-start-column="50" selection-end-line="317" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EnvelopeStar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,20 +721,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangles.java">
+    <entry file="file://$PROJECT_DIR$/src/LotteryDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LotteryDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/For_Each.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnvelopeStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
