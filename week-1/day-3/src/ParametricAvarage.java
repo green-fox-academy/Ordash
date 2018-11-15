@@ -23,7 +23,7 @@ public class ParametricAvarage {
         for (int i = 1; i <= 5; i++) {
 
             double number = scanner.nextInt();
-            sumOfNumbers = sumOfNumbers + number;
+            sumOfNumbers += number;
             avarageOfNumbers = sumOfNumbers /5;
         }
 
