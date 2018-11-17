@@ -2,10 +2,10 @@ package Pirates;
 
 public class Pirate {
 
-    int lvlOfRum;
-    boolean isDead = false;
-    boolean isPassedOut = false;
-    boolean isCaptain;
+    private int lvlOfRum;
+    private boolean isDead = false;
+    private boolean isPassedOut = false;
+    private boolean isCaptain;
 
     @Override
     public String toString() {
@@ -20,29 +20,45 @@ public class Pirate {
 
     public Pirate(boolean isCaptain) {
         this.isCaptain = isCaptain;
+        if(isCaptain){
+            this.lvlOfRum = 2;
+        }
+    }
+
+    public boolean isDead(){
+        return isDead;
+    }
+
+    public boolean isPassedOut() {
+        return isPassedOut;
+    }
+
+    public int getLevelOfRum(){
+        return lvlOfRum;
     }
 
     public void drinkSomeRum() {
-        if (isDead == false) {
+        if (!isDead) {
             lvlOfRum++;
         }
     }
 
     public void howIsItGoingMate() {
-        if(isDead == false) {
+        if(!isDead) {
 
-            if (lvlOfRum < 5 && isCaptain == false) {
+            if (lvlOfRum <= 5 && !isCaptain) {
                 //System.out.println("Pour me anudder!");
                 drinkSomeRum();
-            } else if (lvlOfRum < 10 && isCaptain == true){
+            } else if (lvlOfRum > 5 && !isCaptain){
+                //System.out.println("Arghh, I'ma Pirate. How d'ya d'ink its goin?");
+                passOut();
+            } else if (lvlOfRum < 10){
                 //System.out.println("Pour me already!!!!!!!!!!!!");
                 drinkSomeRum();
                 drinkSomeRum();
-            } else if (lvlOfRum > 4 && isCaptain == false){
-                //System.out.println("Arghh, I'ma Pirate. How d'ya d'ink its goin?");
+            } else if (lvlOfRum > 10){
                 passOut();
             }
-
         }
     }
 
@@ -52,16 +68,15 @@ public class Pirate {
     }
 
     public void passOut() {
-        if (isDead == false) {
+        if (!isDead) {
             isPassedOut = true;
+            lvlOfRum = 0;
         }
-
-
     }
 
     public void brawl(Pirate anotherPirate) {
         int threeOption = (int) (Math.random()*3+1);
-        if (isCaptain == false && isDead == false) {
+        if (!isCaptain && !isDead) {
             if (threeOption == 1) {
                 die();
             } else if (threeOption == 2) {
@@ -70,7 +85,7 @@ public class Pirate {
                 passOut();
                 anotherPirate.passOut();
             }
-        } else if (isCaptain == true && isDead == false){
+        } else if (isCaptain && !isDead){
             drinkSomeRum();
         }
     }
