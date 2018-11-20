@@ -1,14 +1,20 @@
 package Pirates;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Ship {
     private ArrayList<Pirate> crew = new ArrayList<>();
     private String shipName;
+    private static List<String> alreadyNames = new ArrayList<>();
 
 
-    public Ship(String name) {
-        this.shipName = name;
+    public Ship() {
+        this.shipName = getShipName((int)(Math.random()*32)+1);
+
     }
 
     @Override
@@ -51,7 +57,7 @@ public class Ship {
     }
 
     private void lose() {
-        for (int i = 1; i < crew.size()-1; i++) {
+        for (int i = 1; i < crew.size() - 1; i++) {
             int loseRandom = (int) (Math.random() * 100) + 1;
             if (loseRandom < 30) {
                 crew.get(i).die();
@@ -129,5 +135,34 @@ public class Ship {
                 }
             }
         }
+    }
+
+    public List<String> readShipNames() {
+
+
+        List<String> dataLines = new ArrayList<>();
+
+        try {
+            dataLines = Files.readAllLines(Paths.get("shipnames.txt"));
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.out.println("File is not readable");
+        }
+        return dataLines;
+    }
+
+    private String getShipName(int random) {
+
+
+        String tempShip = readShipNames().get(random);
+        alreadyNames.add("nothing");
+        if(!alreadyNames.contains(tempShip)) {
+            alreadyNames.add(tempShip);
+            return tempShip;
+        } else {
+            return getShipName((int)(Math.random()*32)+1);
+        }
+
     }
 }

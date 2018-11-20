@@ -9,13 +9,12 @@ public class Counter {
 
         actualNumber = i;
         initialNumber = i;
-
     }
+
     public Counter() {
 
         this.initialNumber = 0;
         this.actualNumber = 0;
-
     }
 
     public void add(int j) {
@@ -29,12 +28,9 @@ public class Counter {
 
     public int get() {
         return actualNumber;
-
     }
 
     public void reset() {
         actualNumber = initialNumber;
-
     }
-
 }

@@ -6,4 +6,9 @@ public class BlogPost {
     String text;
     String publicationDate;
 
+    public BlogPost(){
+
+    }
+
+
 }

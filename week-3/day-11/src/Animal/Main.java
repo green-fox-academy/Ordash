@@ -11,11 +11,5 @@ public class Main {
         fox.play();
         System.out.println(fox.hunger);
         System.out.println(fox.thirst);
-
-
-
-
-
-
     }
 }

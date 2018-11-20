@@ -23,7 +23,8 @@ public class Armada {
 
         int shipCount = (int)(Math.random()*5)+5;
         for (int i = 0; i < shipCount; i++) {
-            fleet.add(new Ship("Warship" + i));
+
+            fleet.add(new Ship());
             fleet.get(i).fillShip();
             fleet.get(i).theParty();
             fleet.get(i).shipInfo();
@@ -50,6 +51,8 @@ public class Armada {
         }
 
     }
+
+
 }
 
 

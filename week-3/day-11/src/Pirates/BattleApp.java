@@ -3,13 +3,13 @@ package Pirates;
 public class BattleApp {
     public static void main(String[] args) {
 
-        Ship ship1 = new Ship("Blackraven");
+        Ship ship1 = new Ship();
 
         ship1.fillShip();
         ship1.theParty();
         ship1.shipInfo();
 
-        Ship ship2 = new Ship("Greydeath");
+        Ship ship2 = new Ship();
 
         ship2.fillShip();
         ship2.theParty();

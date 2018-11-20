@@ -4,10 +4,12 @@ public class Main {
     public static void main(String[] args) {
 
 
+        Blog myListofBlogPosts = new Blog();
+
+
         BlogPost blog1 = new BlogPost();
         BlogPost blog2 = new BlogPost();
         BlogPost blog3 = new BlogPost();
-
         blog1.title = "Lorem Ipsum";
         blog1.authorName = "John Doe";
         blog1.publicationDate = "2000.05.04";

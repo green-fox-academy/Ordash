@@ -12,7 +12,6 @@ public class Farm {
 
             setOfAnimals.add(new Animal());
         }
-
     }
 
     public void slaugher() {
@@ -25,7 +24,6 @@ public class Farm {
                 minHunger = setOfAnimals.get(i).hunger;
                 minHungerIndex = i;
             }
-
         }
         setOfAnimals.remove(minHungerIndex);
     }

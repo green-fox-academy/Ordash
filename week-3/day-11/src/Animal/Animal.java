@@ -7,18 +7,14 @@ public class Animal {
 
     public void eat() {
         hunger--;
-
     }
 
     public void drink() {
         thirst--;
-
     }
 
     public void play() {
         hunger--;
         thirst--;
-
     }
-
 }

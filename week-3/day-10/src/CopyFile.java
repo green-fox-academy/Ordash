@@ -15,7 +15,7 @@ public class CopyFile {
         String pathCopyFrom = "assets/my-file.txt";
         String pathCopyTo = "assets/my-file2.txt";
 
-        if (copyFiles(pathCopyFrom, pathCopyTo) == true) {
+        if (copyFiles(pathCopyFrom, pathCopyTo)) {
             System.out.println("File copied successfully.");
         } else {
             System.out.println("File copy failed.");
