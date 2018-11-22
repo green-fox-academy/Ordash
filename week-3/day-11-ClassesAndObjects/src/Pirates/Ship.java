@@ -162,6 +162,9 @@ public class Ship {
         } else {
             return getShipName((int)(Math.random()*32)+1);
         }
+    }
 
+    public int getCaptainAlcoholLevel() {
+        return this.crew.get(0).getLevelOfRum();
     }
 }

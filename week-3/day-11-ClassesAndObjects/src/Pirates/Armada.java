@@ -44,12 +44,26 @@ public class Armada {
             }
         }
         if (this.fleet.size() != fleetCounter) {
+            System.out.println("*******************************************************");
             System.out.println("The winner is " + this.armadaName + "!!!!!!!!");
-            System.out.println("\n");
+            System.out.println("The average bottles of rum count what the captains drank in the fleet: " + this.getAvarageAlcoholLevelOfTheCaptains());
+            System.out.println("*******************************************************");
+
         } else {
+            System.out.println("*******************************************************");
             System.out.println("The winner is " + anotherArmada.armadaName + "!!!!!!!!");
-            System.out.println("\n");
+            System.out.println("The average bottles of rum count what the captains drank in the fleet: " + anotherArmada.getAvarageAlcoholLevelOfTheCaptains());
+            System.out.println("*******************************************************");
+
         }
+    }
+
+    public double getAvarageAlcoholLevelOfTheCaptains(){
+        int totalAlcoholLevel = 0;
+        for (Ship ship : fleet) {
+            totalAlcoholLevel += ship.getCaptainAlcoholLevel();
+        }
+        return (double)totalAlcoholLevel/fleet.size();
     }
 }
 

@@ -70,7 +70,6 @@ public class Pirate {
     public void passOut() {
         if (!isDead) {
             isPassedOut = true;
-            lvlOfRum = 0;
         }
     }
 

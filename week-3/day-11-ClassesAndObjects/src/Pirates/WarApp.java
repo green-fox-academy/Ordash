@@ -10,7 +10,5 @@ public class WarApp {
         theAlcoholics.createArmada();
 
         theFighters.war(theAlcoholics);
-        System.out.println(theAlcoholics);
-
     }
 }

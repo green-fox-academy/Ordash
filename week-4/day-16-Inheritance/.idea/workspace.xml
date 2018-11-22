@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a6e5e1-e754-4c2a-b645-8983da3e8949" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Armada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Pirate.java" afterDir="false" />
@@ -10,15 +9,10 @@
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/WarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/WarApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-12-Recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-12-Recursion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AircraftCarrier/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AircraftCarrier/Carrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AircraftCarrier/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AircraftCarrier/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/Comparator/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/Comparator/Dominoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/ElectricGuitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/Instrument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-18-Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-Testing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-18-Testing/Tests/Extension/ExtensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-Testing/Tests/Extension/ExtensionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-18-Testing/src/Extension/Extension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-Testing/src/Extension/Extension.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,12 +66,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,18 +91,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="91">
+              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
               <folding>
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
                 <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
                 <element signature="e#1149#1150#0" expanded="true" />
                 <element signature="e#1191#1192#0" expanded="true" />
               </folding>
@@ -116,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Carrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="48">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <element signature="e#393#394#0" expanded="true" />
                 <element signature="e#428#429#0" expanded="true" />
@@ -248,9 +238,9 @@
         <option value="$PROJECT_DIR$/src/AircraftCarrier/noAmmo.java" />
         <option value="$PROJECT_DIR$/src/AircraftCarrier/noAmmoException.java" />
         <option value="$PROJECT_DIR$/src/Garden/Main.java" />
-        <option value="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" />
-        <option value="$PROJECT_DIR$/src/AircraftCarrier/Main.java" />
         <option value="$PROJECT_DIR$/src/AircraftCarrier/Carrier.java" />
+        <option value="$PROJECT_DIR$/src/AircraftCarrier/Main.java" />
+        <option value="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" />
       </list>
     </option>
   </component>
@@ -287,6 +277,12 @@
               <item name="day-16-Inheritance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day-16-Inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-16-Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AircraftCarrier" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -298,10 +294,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542919315212" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542926394392" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -419,12 +418,12 @@
       <workItem from="1542614727756" duration="598000" />
       <workItem from="1542622666647" duration="57425000" />
       <workItem from="1542835877787" duration="1246000" />
-      <workItem from="1542871369386" duration="2263000" />
+      <workItem from="1542871369386" duration="4105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61699000" />
+    <option name="totallyTimeSpent" value="63541000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,7 +456,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.3931507" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.3931507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -626,6 +625,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Garden/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/F16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/F35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/noAmmoException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -637,55 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Garden/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding>
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/F35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/F16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Carrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="48">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="e#393#394#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
@@ -693,5 +675,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day-16-Inheritance</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
