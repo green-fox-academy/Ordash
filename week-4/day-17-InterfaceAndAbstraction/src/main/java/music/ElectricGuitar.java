@@ -11,6 +11,12 @@ public class ElectricGuitar extends StringedInstrument {
         super("Electric Guitar", 6);
     }
 
+    Instrument dsfs = new Instrument("efefe") {
+        @Override
+        public void play() {
+            System.out.println("sdfsdf");
+        }
+    };
 
     @Override
     public String sound() {

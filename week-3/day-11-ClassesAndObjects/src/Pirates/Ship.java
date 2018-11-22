@@ -21,7 +21,7 @@ public class Ship {
     public String toString() {
         return "Ship{" +
                 "crew=" + crew +
-                '}';
+                '}'+"\n";
     }
 
     private int shipScore() {
@@ -154,9 +154,8 @@ public class Ship {
 
     private String getShipName(int random) {
 
-
         String tempShip = readShipNames().get(random);
-        alreadyNames.add("nothing");
+        //alreadyNames.add("nothing");
         if(!alreadyNames.contains(tempShip)) {
             alreadyNames.add(tempShip);
             return tempShip;

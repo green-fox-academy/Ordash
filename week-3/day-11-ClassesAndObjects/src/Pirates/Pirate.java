@@ -14,7 +14,7 @@ public class Pirate {
                 ", isDead=" + isDead +
                 ", isPassedOut=" + isPassedOut +
                 ", isCaptain=" + isCaptain +
-                '}';
+                '}' + "\n";
     }
 
 

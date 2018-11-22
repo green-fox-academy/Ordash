@@ -22,5 +22,6 @@ public class Dominoes {
         for (Domino d : dominoes) {
             d.printAllFields();
         }
+
     }
 }

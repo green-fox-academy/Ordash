@@ -4,7 +4,7 @@ public class WarApp {
     public static void main(String[] args) {
 
 
-        Armada theFighters = new Armada("The Reapers");
+        Armada theFighters = new Armada("The Drunks");
         Armada theAlcoholics = new Armada("The Alcoholics");
         theFighters.createArmada();
         theAlcoholics.createArmada();

@@ -1,11 +1,13 @@
 package main.java.music;
 
 public abstract class Instrument {
-    protected String name;
+    String name;
 
-    public Instrument(String name) {
+    Instrument(String name) {
         this.name = name;
     }
 
     public abstract void play();
+
+
 }

@@ -47,9 +47,7 @@ public class Carrier {
                 }
             }
         }
-
     }
-
 
     public int totalSquadDamage() {
 

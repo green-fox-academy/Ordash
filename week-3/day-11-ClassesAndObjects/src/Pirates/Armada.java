@@ -29,7 +29,6 @@ public class Armada {
             fleet.get(i).theParty();
             fleet.get(i).shipInfo();
         }
-
     }
 
     public void war(Armada anotherArmada) {
@@ -45,14 +44,13 @@ public class Armada {
             }
         }
         if (this.fleet.size() != fleetCounter) {
-            System.out.println("The winner is " + this.armadaName);
+            System.out.println("The winner is " + this.armadaName + "!!!!!!!!");
+            System.out.println("\n");
         } else {
-            System.out.println("The winner is " + anotherArmada.armadaName);
+            System.out.println("The winner is " + anotherArmada.armadaName + "!!!!!!!!");
+            System.out.println("\n");
         }
-
     }
-
-
 }
 
 
