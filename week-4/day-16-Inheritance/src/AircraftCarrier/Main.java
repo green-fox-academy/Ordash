@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         try {
-            Carrier american = new Carrier(2300, 5000);
-            Carrier russian = new Carrier(3000, 4500);
+            Carrier american = new Carrier(1400, 10000);
+            Carrier russian = new Carrier(1500, 9000);
 
             american.add(new F16());
             american.add(new F16());

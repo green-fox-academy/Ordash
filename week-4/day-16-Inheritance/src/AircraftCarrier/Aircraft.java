@@ -16,6 +16,7 @@ public class Aircraft {
     public int getAmmo() {
         return ammo;
     }
+
     public int allDamage() {
         return ammo * baseDamage;
     }
@@ -27,15 +28,14 @@ public class Aircraft {
     }
 
     public int refill(int num) {
-        if(num > maxAmmo) {
+        if (num > maxAmmo) {
             int remainingAmmo = num - maxAmmo;
             ammo = maxAmmo;
             return remainingAmmo;
-        } else if (num <= maxAmmo) {
-            ammo = num;
-            return 0;
         }
+        ammo = num;
         return 0;
+
     }
 
     public String getType() {
@@ -43,11 +43,11 @@ public class Aircraft {
     }
 
     public void getStatus() {
-        System.out.format("Type %s, Ammo: %d, Base Damage: %d, All Damage: " + allDamage(),type,ammo,baseDamage);
+        System.out.format("Type %s, Ammo: %d, Base Damage: %d, All Damage: " + allDamage(), type, ammo, baseDamage);
         System.out.println();
     }
 
     public boolean isPriority() {
-         return type.equals("F35");
+        return type.equals("F35");
     }
 }

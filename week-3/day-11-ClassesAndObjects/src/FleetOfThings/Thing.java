@@ -11,6 +11,7 @@ public class Thing {
         this.name = name;
     }
 
+
     public void complete() {
         this.completed = true;
     }
