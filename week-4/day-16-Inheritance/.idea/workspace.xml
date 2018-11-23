@@ -4,14 +4,11 @@
     <list default="true" id="20a6e5e1-e754-4c2a-b645-8983da3e8949" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Armada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Pirate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/Ship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/WarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-11-ClassesAndObjects/src/Pirates/WarApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-3/day-12-Recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-3/day-12-Recursion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AircraftCarrier/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AircraftCarrier/Carrier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-InterfaceAndAbstraction/src/main/java/music/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-18-Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-Testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#470#471#0" expanded="true" />
@@ -277,12 +274,6 @@
               <item name="day-16-Inheritance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="day-16-Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day-16-Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AircraftCarrier" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -294,7 +285,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542926394392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542972526208" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -418,12 +409,12 @@
       <workItem from="1542614727756" duration="598000" />
       <workItem from="1542622666647" duration="57425000" />
       <workItem from="1542835877787" duration="1246000" />
-      <workItem from="1542871369386" duration="4105000" />
+      <workItem from="1542871369386" duration="4766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63541000" />
+    <option name="totallyTimeSpent" value="64202000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,7 +427,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49863014" visible="true" weight="0.2003231" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -677,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AircraftCarrier/Aircraft.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="76">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#470#471#0" expanded="true" />

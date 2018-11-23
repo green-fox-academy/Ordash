@@ -4,11 +4,11 @@ public class WarApp {
     public static void main(String[] args) {
 
 
-        Armada theFighters = new Armada("The Drunks");
-        Armada theAlcoholics = new Armada("The Alcoholics");
-        theFighters.createArmada();
-        theAlcoholics.createArmada();
+        Armada dipsomaniacs = new Armada("The Dipsomaniacs");
+        Armada pissheads = new Armada("The Pissheads");
+        dipsomaniacs.createArmada();
+        pissheads.createArmada();
 
-        theFighters.war(theAlcoholics);
+        dipsomaniacs.war(pissheads);
     }
 }

@@ -4,14 +4,11 @@
     <list default="true" id="5074bbe4-13fa-405a-9a62-9b2421a3adb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../day-11-ClassesAndObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11-ClassesAndObjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Armada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Pirate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/Ship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/WarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-11-ClassesAndObjects/src/Pirates/WarApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/src/AircraftCarrier/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/src/AircraftCarrier/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/src/AircraftCarrier/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-16-Inheritance/src/AircraftCarrier/Carrier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-4/day-17-InterfaceAndAbstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-17-InterfaceAndAbstraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-4/day-17-InterfaceAndAbstraction/src/main/java/music/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-17-InterfaceAndAbstraction/src/main/java/music/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-4/day-18-Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-4/day-18-Testing/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,6 +59,7 @@
     <session id="747689131">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -254,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542926394446" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542972439827" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -358,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

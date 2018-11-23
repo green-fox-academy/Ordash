@@ -12,7 +12,7 @@ public class Ship {
     private static List<String> alreadyNames = new ArrayList<>();
 
 
-    public Ship() {
+    Ship() {
         this.shipName = getShipName((int)(Math.random()*32)+1);
 
     }
@@ -31,7 +31,7 @@ public class Ship {
 
     }
 
-    public boolean battle(Ship anotherShip) {
+    boolean battle(Ship anotherShip) {
 
         if (this.shipScore() > anotherShip.shipScore()) {
             this.win();
@@ -47,8 +47,8 @@ public class Ship {
     }
 
     private void win() {
-        for (int i = 0; i < crew.size(); i++) {
-            crew.get(i).drinkSomeRum();
+        for (Pirate aCrew : crew) {
+            aCrew.drinkSomeRum();
         }
         if (crew.get(0).getLevelOfRum() > 10) {
             crew.get(0).passOut();
@@ -65,10 +65,10 @@ public class Ship {
         }
     }
 
-    public void shipInfo() {
+    void shipInfo() {
         //Count the dead and the passed out
 
-        System.out.println("Ship info: " + this.shipName + "\n");
+        System.out.println("Ship: " + this.shipName + "\n");
         System.out.println("Total number of pirates on the crew: " + crew.size());
         System.out.println("The number of bottles of rum what the captain drank: " + crew.get(0).getLevelOfRum());
         System.out.println("Number of pirates who died from intoxication or brawling: " + calculateDeadCount());
@@ -79,8 +79,8 @@ public class Ship {
 
     private int calculatePassedOutCount() {
         int passedOutCount = 0;
-        for (int i = 0; i < crew.size(); i++) {
-            if (crew.get(i).isPassedOut() && !crew.get(i).isDead()) {
+        for (Pirate aCrew : crew) {
+            if (aCrew.isPassedOut() && !aCrew.isDead()) {
                 passedOutCount++;
             }
 
@@ -90,8 +90,8 @@ public class Ship {
 
     private int calculateDeadCount() {
         int deadCount = 0;
-        for (int i = 0; i < crew.size(); i++) {
-            if (crew.get(i).isDead()) {
+        for (Pirate aCrew : crew) {
+            if (aCrew.isDead()) {
                 deadCount++;
             }
         }
@@ -102,7 +102,7 @@ public class Ship {
         return crew.size() - calculateDeadCount() - calculatePassedOutCount();
     }
 
-    public void fillShip() {
+    void fillShip() {
 
         //add captain and with a base rum level 2
         crew.add(new Pirate(true));
@@ -119,25 +119,25 @@ public class Ship {
     }
 
 
-    public void theParty() {
+    void theParty() {
 
         int drinkOrBrawl;
         int howManyTimes;
-        for (int i = 0; i < crew.size(); i++) {
+        for (Pirate aCrew : crew) {
             drinkOrBrawl = (int) (Math.random() * (10) + 1);
             howManyTimes = (int) (Math.random() * (3) + 1);
             for (int j = 0; j < howManyTimes; j++) {
 
                 if (drinkOrBrawl > 3) {
-                    crew.get(i).howIsItGoingMate();
-                } else if (drinkOrBrawl < 3 && getRandomPirate() != crew.get(i)) {
-                    crew.get(i).brawl(getRandomPirate());
+                    aCrew.howIsItGoingMate();
+                } else if (drinkOrBrawl < 3 && getRandomPirate() != aCrew) {
+                    aCrew.brawl(getRandomPirate());
                 }
             }
         }
     }
 
-    public List<String> readShipNames() {
+    private List<String> readShipNames() {
 
 
         List<String> dataLines = new ArrayList<>();
@@ -152,10 +152,13 @@ public class Ship {
         return dataLines;
     }
 
+    public String getShipName() {
+        return shipName;
+    }
+
     private String getShipName(int random) {
 
         String tempShip = readShipNames().get(random);
-        //alreadyNames.add("nothing");
         if(!alreadyNames.contains(tempShip)) {
             alreadyNames.add(tempShip);
             return tempShip;
@@ -164,7 +167,7 @@ public class Ship {
         }
     }
 
-    public int getCaptainAlcoholLevel() {
+    int getCaptainAlcoholLevel() {
         return this.crew.get(0).getLevelOfRum();
     }
 }
