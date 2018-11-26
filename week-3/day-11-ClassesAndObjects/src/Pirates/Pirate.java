@@ -18,32 +18,32 @@ public class Pirate {
     }
 
 
-    public Pirate(boolean isCaptain) {
+    Pirate(boolean isCaptain) {
         this.isCaptain = isCaptain;
         if(isCaptain){
             this.lvlOfRum = 2;
         }
     }
 
-    public boolean isDead(){
+    boolean isDead(){
         return isDead;
     }
 
-    public boolean isPassedOut() {
+    boolean isPassedOut() {
         return isPassedOut;
     }
 
-    public int getLevelOfRum(){
+    int getLevelOfRum(){
         return lvlOfRum;
     }
 
-    public void drinkSomeRum() {
+    void drinkSomeRum() {
         if (!isDead) {
             lvlOfRum++;
         }
     }
 
-    public void howIsItGoingMate() {
+    void howIsItGoingMate() {
         if(!isDead) {
 
             if (lvlOfRum <= 5 && !isCaptain) {
@@ -62,18 +62,18 @@ public class Pirate {
         }
     }
 
-    public void die() {
+    void die() {
         isDead = true;
 
     }
 
-    public void passOut() {
+    void passOut() {
         if (!isDead) {
             isPassedOut = true;
         }
     }
 
-    public void brawl(Pirate anotherPirate) {
+    void brawl(Pirate anotherPirate) {
         int threeOption = (int) (Math.random()*3+1);
         if (!isCaptain && !isDead) {
             if (threeOption == 1) {

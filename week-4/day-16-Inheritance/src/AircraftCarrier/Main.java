@@ -1,7 +1,5 @@
 package AircraftCarrier;
 
-import java.util.Random;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -52,7 +50,7 @@ public class Main {
             System.out.println("Russian");
             russian.getCarrierStatus();
 
-        } catch (noAmmoException ex) {
+        } catch (NoAmmoException ex) {
             ex.printStackTrace();
         }
     }

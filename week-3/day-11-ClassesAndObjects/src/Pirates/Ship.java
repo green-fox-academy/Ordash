@@ -58,8 +58,8 @@ public class Ship {
 
     private void lose() {
         for (int i = 1; i < crew.size() - 1; i++) {
-            int loseRandom = (int) (Math.random() * 100) + 1;
-            if (loseRandom < 30) {
+            int loseRandom = (int) (Math.random() * 10) + 1;
+            if (loseRandom < 3) {
                 crew.get(i).die();
             }
         }

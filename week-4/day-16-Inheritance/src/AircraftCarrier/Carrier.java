@@ -26,10 +26,10 @@ class Carrier {
         return capacity;
     }
 
-    void fill() throws noAmmoException {
+    void fill() throws NoAmmoException {
 
         if (storeOfAmmo <= 0) {
-            throw new noAmmoException("No ammo");
+            throw new NoAmmoException();
         }
         if (storeOfAmmo > totalSquadAmmoCapacity()) {
             for (Aircraft aircraft : squad) {
