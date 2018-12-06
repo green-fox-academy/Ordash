@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+    <link rel="stylesheet" type="text/css" href="signmeup.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+
+
+<div class="signup">
+    <div class="signupfields">
+        <form action="https://newsletter-ws.herokuapp.com/register" method="POST">
+            <h3>Sign Up</h3>
+
+            <input class="input100" type="text" name="name" placeholder="Username" required>
+
+
+            <input class="input100" type="email" name="email" placeholder="E-mail" required>
+
+
+            <input class="input100" type="password" name="password" id="password" placeholder="Password" required>
+
+
+            <input class="input100" type="password" name="passwordConfirmation" id="confirm_password" placeholder="Retype password" required>
+
+            <input class="signupbutton" type="submit" value="SIGN ME UP">
+        </form>
+
+
+
+    </div>
+
+    <div class="or">
+
+        <p>OR</p>
+
+    </div>
+
+    <div class="loginbuttons">
+
+        <button type="button" class="facebook">Log in with facebook</button>
+        <button type="button" class="twitter">Log in with twitter</button>
+        <button type="button" class="googleplus">Log in with google+</button>
+
+    </div>
+</div>
+
+<script>
+    var password = document.getElementById("password")
+        , confirm_password = document.getElementById("confirm_password");
+
+    function validatePassword(){
+        if(password.value != confirm_password.value) {
+            confirm_password.setCustomValidity("Passwords doesn't match, please try again!");
+        } else {
+            confirm_password.setCustomValidity('');
+        }
+    }
+
+    password.onchange = validatePassword;
+    confirm_password.onkeyup = validatePassword;
+</script>
+
+
+</body>
+</html>
+
+

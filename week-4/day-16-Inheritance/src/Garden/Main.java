@@ -4,7 +4,6 @@ package Garden;
 public class Main {
     public static void main(String[] args) {
 
-
         Garden garden = new Garden();
 
         garden.addPlant(new Flower("yellow"));
@@ -17,10 +16,5 @@ public class Main {
         garden.waterAll(40);
 
         garden.waterAll(70);
-
-
-
-
-
     }
 }
