@@ -1,12 +1,12 @@
-package com.webshop.project;
+package com.greenfox.webshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebshopProjectApplication {
+public class WebshopApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebshopProjectApplication.class, args);
+        SpringApplication.run(WebshopApplication.class, args);
     }
 }

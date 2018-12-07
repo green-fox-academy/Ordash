@@ -1,4 +1,4 @@
-package com.webshop.project;
+package com.greenfox.webshop;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WebshopProjectApplicationTests {
+public class WebshopApplicationTests {
 
     @Test
     public void contextLoads() {
