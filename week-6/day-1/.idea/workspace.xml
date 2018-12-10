@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c1de133-b476-41a8-b4a7-e1ec249d0e55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/java/com/webshop/project/ShopItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/java/com/webshop/project/WebShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/java/com/webshop/project/controllers/WebshopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/resources/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Table/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Table/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-2-lambdaexpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2-lambdaexpressions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-2-lambdaexpressions/src/Lamdbaexp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2-lambdaexpressions/src/Lamdbaexp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/day-3 WebshopProject/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/day3webshop/src/main/resources/templates/shop.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -780,7 +770,7 @@
     <property name="SearchEverywhereHistoryKey" value="xml&#9;FILE&#9;file:///Users/Beccaio/GF/greenfox/Ordash/week-6/day-1/.idea/gradle.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544201339153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544446818339" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -873,12 +863,12 @@
       <updated>1544004068573</updated>
       <workItem from="1544004092507" duration="292000" />
       <workItem from="1544004414978" duration="4312000" />
-      <workItem from="1544011613926" duration="37947000" />
+      <workItem from="1544011613926" duration="38347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42551000" />
+    <option name="totallyTimeSpent" value="42951000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -891,7 +881,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1987076" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
