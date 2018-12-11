@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c1de133-b476-41a8-b4a7-e1ec249d0e55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day-2-lambdaexpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2-lambdaexpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2-lambdaexpressions/src/Lamdbaexp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2-lambdaexpressions/src/Lamdbaexp1.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c1de133-b476-41a8-b4a7-e1ec249d0e55" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -66,7 +63,7 @@
     <session id="1600527515">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.185" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -770,7 +767,7 @@
     <property name="SearchEverywhereHistoryKey" value="xml&#9;FILE&#9;file:///Users/Beccaio/GF/greenfox/Ordash/week-6/day-1/.idea/gradle.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544446818339" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544446824052" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
