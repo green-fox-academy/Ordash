@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9386036-8a6d-442d-a911-beae3c62a07c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/bankofsimba project/src/main/java/com/greenfox/bankofsimba/controllers/BankOfSimbaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/bankofsimba project/src/main/java/com/greenfox/bankofsimba/models/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/bankofsimba project/src/main/resources/templates/HTMLception.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/bankofsimba project/src/main/resources/templates/accountTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/bankofsimba project/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/java/com/greenfox/library/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/java/com/greenfox/library/models/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/resources/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/resources/templates/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/controllers/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/controllers/UsefulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/BlueColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/MyColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/RedColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/java/com/greenfox/dependencies/services/UtilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/caesar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/colored.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/gfa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/gfastudents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-7/day-4-Dependencies/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/day-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-5/src/PowerOfThor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/day-2-Lists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/AppendLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/ArrayListBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/ArraysBana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/Candyshop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/ElementFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/GuessMyNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/HashMapExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/HeWillNever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/IsInList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/Matchmaking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/QuoteSwap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/SimpleReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/SolarSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/StudentCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/SubInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/TakesLonger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/TodoPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-6-Lists/src/UrlFixer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/day-3-DrawingBasics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/CenterBoxFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/CenteredSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/Checkerboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/ColoredBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/ConnectTheDots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/Diagonals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/DrawingTutorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/DrawingTutorial2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/FourRectangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/FunctionToCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/GoToCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/HorizontalLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/LineInTheMiddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/PositionSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/PurpleSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/PurpleSteps3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/RainbowBoxFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-7-DrawingBasics/src/StarryNight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/day-9-Drawing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/DrawOutTheWinner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/EnvelopeStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/For_Each.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LinePlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LinePlayArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LinePlayArrayListMulti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LinePlayQuarters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LineplayMulti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/LotteryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/Triangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-9-Drawing/src/Triangles2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-6/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-6/day-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-6/day-2-lambdaexpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-6/day-2-lambdaexpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-7/day-3-ThymeLeaf/library project/src/main/java/com/greenfox/library/controllers.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1191260775">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.58" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+    <session id="-757847446">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Triangles2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/For_Each.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinePlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LineplayMulti.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinePlayArrayListMulti.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DoWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinePlayArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#LinePlayArrayList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LotteryDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DrawOutTheWinner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinePlayQuarters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lineplay2.java" />
+        <option value="$PROJECT_DIR$/src/LinePlay.java" />
+        <option value="$PROJECT_DIR$/src/LinePlayArrayList.java" />
+        <option value="$PROJECT_DIR$/src/LineplayArraylistMulti.java" />
+        <option value="$PROJECT_DIR$/src/LinePlayArrayListMulti.java" />
+        <option value="$PROJECT_DIR$/src/LinePlayMultiNoArray.java" />
+        <option value="$PROJECT_DIR$/src/JesperLines.java" />
+        <option value="$PROJECT_DIR$/src/LineplayMulti.java" />
+        <option value="$PROJECT_DIR$/src/LinePlayQuarters.java" />
+        <option value="$PROJECT_DIR$/src/For_Each.java" />
+        <option value="$PROJECT_DIR$/src/LotteryDemo.java" />
+        <option value="$PROJECT_DIR$/src/DrawOutTheWinner.java" />
+        <option value="$PROJECT_DIR$/src/DoWhile.java" />
+        <option value="$PROJECT_DIR$/src/EnvelopeStar.java" />
+        <option value="$PROJECT_DIR$/src/JesperTriangle.java" />
+        <option value="$PROJECT_DIR$/src/Triangles2.java" />
+        <option value="$PROJECT_DIR$/src/PitnerTriangles.java" />
+        <option value="$PROJECT_DIR$/src/Triangles.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day-5-Drawing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-5-Drawing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-5-Drawing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-5-Drawing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-5-Drawing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-5-Drawing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DrawOutTheWinner.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542562896700" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Triangles">
+    <configuration name="For_Each" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Each" />
+      <module name="day-5-Drawing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinePlayArrayListMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinePlayArrayListMulti" />
+      <module name="day-5-Drawing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineplayMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineplayMulti" />
+      <module name="day-5-Drawing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PitnerTriangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PitnerTriangles" />
+      <module name="day-5-Drawing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangles" />
+      <module name="day-5-Drawing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Triangles" />
+      <item itemvalue="Application.PitnerTriangles" />
+      <item itemvalue="Application.For_Each" />
+      <item itemvalue="Application.LineplayMulti" />
+      <item itemvalue="Application.LinePlayArrayListMulti" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Triangles" />
+        <item itemvalue="Application.LinePlayArrayListMulti" />
+        <item itemvalue="Application.LineplayMulti" />
+        <item itemvalue="Application.For_Each" />
+        <item itemvalue="Application.PitnerTriangles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9386036-8a6d-442d-a911-beae3c62a07c" name="Default Changelist" comment="" />
+      <created>1541608172375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541608172375</updated>
+      <workItem from="1541608178699" duration="66281000" />
+      <workItem from="1542413756593" duration="967000" />
+      <workItem from="1542614725243" duration="1857000" />
+      <workItem from="1544732562507" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__src - 2018.11.09 at 11h 04m 43s.xml">
+      <configuration name="All Features in: src" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26171243" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3561644" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24959612" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3575" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lineplay2.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinePlayMultiNoArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/JesperLines.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/opengl/CGLGraphicsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/opengl/OGLSurfaceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="602" selection-start-line="602" selection-end-line="602" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/geom/AffineTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="3928" selection-start-line="3928" selection-end-line="3928" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/pipe/BufferedContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/opengl/OGLRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="367" selection-start-line="367" selection-end-line="367" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/pipe/RenderBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1303" selection-start-line="1303" selection-end-line="1303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/awt/SunToolkit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/pipe/RenderQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/pipe/BufferedRenderPipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/StateTrackableDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/SurfaceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/sun/java2d/SunGraphics2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="2247" selection-start-line="2247" selection-end-line="2247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/com/apple/laf/ClientPropertyApplicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.desktop/com/apple/laf/AquaRootPaneUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="317" column="50" lean-forward="true" selection-start-line="317" selection-start-column="50" selection-end-line="317" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JesperTriangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/PitnerTriangles.java" />
+    <entry file="file://$PROJECT_DIR$/src/EnvelopeStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangles2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/For_Each.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinePlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineplayMulti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinePlayArrayListMulti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="41" column="71" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LotteryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawOutTheWinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinePlayQuarters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinePlayArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#LinePlayArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

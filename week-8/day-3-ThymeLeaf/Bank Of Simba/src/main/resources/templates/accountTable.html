@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Account Table</title>
+</head>
+<body>
+
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Animal type</th>
+        <th>Name</th>
+        <th>Balance</th>
+        <th>Status</th>
+        <th>Reputation</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="account : ${accounts}" th:object="${account}" th:style="*{king} ? 'color:pink' : 'color:black' ">
+        <td th:text="${accountStat.index}"></td>
+        <td th:text="*{animalType}"></td>
+        <td th:text="*{name}"></td>
+        <td th:text="|*{#numbers.formatDecimal(balance,2,2,'POINT')} ZR|"></td>
+        <td th:if="*{king}" th:text="KING"></td>
+        <td th:unless="*{king}"></td>
+        <td th:switch="*{goodOrBad}">
+            <span th:case="'g'" th:text="${'Bad one'}"></span>
+            <span th:case="'b'" th:text="${'Good guy'}"></span>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<form th:action="@{/accounts}" th:method="post">
+    <input type="submit" name="increase">
+    <select name="accName">
+        <div th:each="account : ${accounts}" th:object="${account}">
+            <option th:value="*{name}" th:text="*{name}"></option>
+        </div>
+    </select>
+</form>
+<form th:action="@{/add}" th:object="${singleAcc}" th:method="POST" autocomplete="off">
+
+    <label for="animalType">Animal Type</label>
+    <input type="text" id="animalType" th:field="*{animalType}" required pattern="^[A-Za-z].*"><br>
+    <label for="name">Name</label>
+    <input type="text" id="name" th:field="*{name}" required pattern="^[A-Za-z].*"><br>
+    <label for="balance">Balance</label>
+    <input type="text" id="balance" th:field="*{balance}" required pattern="^[].*"><br>
+
+
+
+    <input type="submit" name="submitacc">
+
+
+
+</form>
+</body>
+</html>
