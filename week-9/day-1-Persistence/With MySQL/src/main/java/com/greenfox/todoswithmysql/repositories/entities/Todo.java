@@ -1,4 +1,4 @@
-package com.greenfox.listingwithh2.repository.Entity;
+package com.greenfox.todoswithmysql.repositories.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -23,6 +23,12 @@ public class Todo {
     public Todo(String title) {
         this();
         this.title = title;
+    }
+
+    public Todo(String title, Boolean urgent,Boolean done) {
+        this.title = title;
+        this.urgent = urgent;
+        this.done = done;
     }
 
     public Long getId() {
