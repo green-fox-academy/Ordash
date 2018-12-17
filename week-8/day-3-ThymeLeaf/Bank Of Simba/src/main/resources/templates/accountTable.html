@@ -48,14 +48,9 @@
     <label for="name">Name</label>
     <input type="text" id="name" th:field="*{name}" required pattern="^[A-Za-z].*"><br>
     <label for="balance">Balance</label>
-    <input type="text" id="balance" th:field="*{balance}" required pattern="^[].*"><br>
-
-
+    <input type="text" id="balance" th:field="*{balance}" required pattern="^[0-9].*"><br>
 
     <input type="submit" name="submitacc">
-
-
-
 </form>
 </body>
 </html>

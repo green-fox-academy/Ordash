@@ -11,7 +11,7 @@
 
 <div class="signup">
     <div class="signupfields">
-        <form action="https://newsletter-ws.herokuapp.com/register" method="POST">
+        <form th:action="@{/loginv14}" method="POST">
             <h3>Sign Up</h3>
 
             <input class="input100" type="text" name="name" placeholder="Username" required>
@@ -40,9 +40,18 @@
 
     <div class="loginbuttons">
 
-        <button type="button" class="facebook">Log in with facebook</button>
-        <button type="button" class="twitter">Log in with twitter</button>
-        <button type="button" class="googleplus">Log in with google+</button>
+        <!--<form class="facebook" action="https://www.facebook.com/">
+            <input type="submit" value="Log in with facebook" />
+        </form>
+        <form class="twitter" action="https://www.twitter.com/">
+            <input type="submit" value="Log in with twitter" />
+        </form>
+        <form class="googleplus" action="https://plus.google.com/">
+            <input type="submit" value="Log in with google+" />
+        </form>-->
+        <button onclick="location.href='https://www.facebook.com/'" type="button" class="facebook">Log in with facebook</button>
+        <button onclick="location.href='https://www.twitter.com/'"type="button" class="twitter">Log in with twitter</button>
+        <button onclick="location.href='https://plus.google.com/'"type="button" class="googleplus">Log in with google+</button>
 
     </div>
 </div>
