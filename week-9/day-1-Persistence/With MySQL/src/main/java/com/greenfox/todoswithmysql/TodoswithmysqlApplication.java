@@ -19,12 +19,12 @@ public class TodoswithmysqlApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-//        todoRepository.save(new Todo("Walk the dog",true,false));
-//        todoRepository.save(new Todo("Water the plants",false,true));
-//        todoRepository.save(new Todo("Save the world",false,false));
-//        todoRepository.save(new Todo("Find medicine for cancer",true,false));
-//        todoRepository.save(new Todo("Cook steak",true,false));
-//        todoRepository.save(new Todo("Find the meaning of life",false,true));
+        todoRepository.save(new Todo("Walk the dog",true,false));
+        todoRepository.save(new Todo("Water the plants",false,true));
+        todoRepository.save(new Todo("Save the world",false,false));
+        todoRepository.save(new Todo("Find medicine for cancer",true,false));
+        todoRepository.save(new Todo("Cook steak",true,false));
+        todoRepository.save(new Todo("Find the meaning of life",false,true));
 
     }
 }

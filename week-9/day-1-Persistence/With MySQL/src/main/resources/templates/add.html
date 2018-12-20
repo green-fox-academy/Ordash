@@ -8,8 +8,11 @@
 </head>
 <body>
 <form th:action="@{/todo/add}" th:method="post" th:object="${newtodo}">
-    <label for="addtodo">Add new todo:</label>
-    <input type="text" id="addtodo" name="addtodo" th:field="*{title}"/>
+    <h1>Add new todo</h1>
+    <label for="addtodo">Title:</label>
+    <input type="text" id="addtodo" th:field="*{title}"/>
+    <label for="adddesc">Description:</label>
+    <input type="text" id="adddesc" th:field="*{description}"/>
     <label>Urgent</label>
     <input type="checkbox" th:field="*{urgent}"/>
     <button type="submit">Add</button>

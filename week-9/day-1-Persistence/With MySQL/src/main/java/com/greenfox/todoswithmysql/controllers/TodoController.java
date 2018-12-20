@@ -21,7 +21,11 @@ public class TodoController {
 
 
     @GetMapping(value = { "","/","/list" })
-    public String list(Model model, @RequestParam(value="isActive", required = false)Boolean isDone){
+    public String list(Model model, @RequestParam(value="isActive", required = false)Boolean isDone,
+                                    @RequestParam(value="desc", required = false)Long id){
+        if(id != null) {
+            model.addAttribute("desc", todoRepository.findById(id).get());
+        }
         if(isDone != null && isDone){
             model.addAttribute("todos",todoRepository.findByDone(!isDone));
         } else {
@@ -45,8 +49,25 @@ public class TodoController {
 
     @GetMapping(value = "{id}/delete")
     public String deleteTodo( @PathVariable Long id) {
-        todoRepository.deleteById(id);
+        if(todoRepository.findById(id).isPresent()) {
+            todoRepository.delete(todoRepository.findById(id).get());
+        }
         return "redirect:/todo/list";
+    }
+
+    @GetMapping(value = "{id}/edit")
+    public String editTodo(Model model, @PathVariable Long id) {
+        if(todoRepository.findById(id).isPresent()) {
+            model.addAttribute("editTodo", todoRepository.findById(id).get());
+        }
+        return "edit";
+    }
+
+    @PostMapping(value = "{id}/edit")
+    public String editTodoPost(@ModelAttribute("editTodo") Todo todo) {
+        todoRepository.save(todo);
+        return "redirect:/todo/list";
+
     }
 
 }
