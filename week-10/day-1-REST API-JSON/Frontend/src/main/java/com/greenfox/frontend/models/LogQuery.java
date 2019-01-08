@@ -1,6 +1,5 @@
 package com.greenfox.frontend.models;
 
-import com.greenfox.frontend.repositories.LogRepository;
 import java.util.List;
 
 public class LogQuery {
@@ -8,9 +7,7 @@ public class LogQuery {
     private List<Log> logs;
     private Integer logCounter;
 
-    public LogQuery(LogRepository logRepository) {
-        this.logs = logRepository.findAll();
-        this.logCounter = logRepository.findAll().size();
+    public LogQuery() {
     }
 
     public List<Log> getLogs() {

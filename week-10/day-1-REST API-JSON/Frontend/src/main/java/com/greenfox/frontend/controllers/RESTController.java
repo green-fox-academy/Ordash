@@ -1,9 +1,13 @@
 package com.greenfox.frontend.controllers;
 
+import com.greenfox.frontend.exceptions.NoInputException;
+import com.greenfox.frontend.exceptions.NotFoundException;
 import com.greenfox.frontend.models.*;
-import com.greenfox.frontend.repositories.LogRepository;
+import com.greenfox.frontend.services.LogService;
 import com.greenfox.frontend.services.ResultService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Arrays;
@@ -13,64 +17,64 @@ public class RESTController {
 
     private ResultService resultService;
 
-    private LogRepository logRepository;
+    private LogService logService;
 
     @Autowired
-    public RESTController(ResultService resultService, LogRepository logRepository) {
+    public RESTController(ResultService resultService, LogService logService) {
         this.resultService = resultService;
-        this.logRepository = logRepository;
+        this.logService = logService;
     }
 
     @GetMapping("/doubling")
-    public Doubled doubling(@RequestParam(value = "input",required = false)Integer input){
-        logRepository.save(new Log("/doubling", "input="+input));
+    public ResponseEntity<Doubled> doubling(@RequestParam(value = "input",required = false)Integer input) throws NoInputException {
+        logService.save(new Log("/doubling", "input="+input));
         if(input != null){
-            return new Doubled(input);
+            return new ResponseEntity<>(new Doubled(input), HttpStatus.OK);
         } else {
-            throw new UnsupportedOperationException("Please provide an input!");
+            throw new NoInputException("Please provide an input!");
         }
     }
 
     @GetMapping("/greeter")
     public Greeter greeter(@RequestParam(value = "name",required = false)String name,
-                          @RequestParam(value = "title",required = false)String title){
-        logRepository.save(new Log("/greeter", "name="+name+", title="+title));
+                          @RequestParam(value = "title",required = false)String title) throws NoInputException{
+        logService.save(new Log("/greeter", "name="+name+", title="+title));
         if(name == null && title == null) {
-            throw  new UnsupportedOperationException("Please provide a name and a title!");
+            throw  new NoInputException("Please provide a name and a title!");
         } else if (name == null){
-            throw  new UnsupportedOperationException("Please provide a name!");
+            throw  new NoInputException("Please provide a name!");
         } else if (title == null){
-            throw new UnsupportedOperationException("Please provide a title!");
+            throw new NoInputException("Please provide a title!");
         } else {
             return new Greeter(name,title);
         }
     }
 
     @GetMapping("/appenda/{appendable}")
-    public AppendA appendA(@PathVariable(name = "appendable")String appendable){
-        logRepository.save(new Log("/appenda", "appendable=" + appendable));
+    public ResponseEntity<AppendA> appendA(@PathVariable(name = "appendable")String appendable) throws NotFoundException {
+        logService.save(new Log("/appenda", "appendable=" + appendable));
         if(appendable == null){
-            throw new UnsupportedOperationException("404");
+            throw new NotFoundException("404");
         }
-        return new AppendA(appendable);
+        return ResponseEntity.ok(new AppendA(appendable));
     }
 
     @PostMapping("/dountil/{action}")
-    public Result doUntil(@PathVariable(name = "action")String action, @RequestBody Until until){
-        logRepository.save(new Log("dountil", "action=" + action + ", until=" + until.getUntil()));
+    public ResponseEntity<Result> doUntil(@PathVariable(name = "action")String action, @RequestBody Until until) throws NoInputException{
+        logService.save(new Log("dountil", "action=" + action + ", until=" + until.getUntil()));
         if (until.getUntil() == null){
-            throw new UnsupportedOperationException("Please provide a number!");
+            throw new NoInputException("Please provide a number!");
         } else if (action.equals("sum")) {
-            return resultService.getSum(until);
+            return ResponseEntity.ok(resultService.getSum(until));
         } else {
-            return resultService.getFactor(until);
+            return ResponseEntity.ok(resultService.getFactor(until));
         }
     }
 
     @PostMapping("/arrays")
     public Result arrayHandler(@RequestBody What what){
-        logRepository.save(new Log("/arrays", "what=" + what.getWhat() +", numbers=" + Arrays.toString(what.getNumbers())));
-        if(what.getWhat() == null || what.getNumbers() == null){
+        logService.save(new Log("/arrays", "what=" + what.getWhat() +", numbers=" + Arrays.toString(what.getNumbers())));
+        if(resultService.resultArrayHandlerValidator(what)){
             throw new UnsupportedOperationException("Please provide what to do with the numbers!");
         } else if (what.getWhat().equals("sum")){
             return resultService.getArraySum(what);
@@ -84,6 +88,9 @@ public class RESTController {
 
     @GetMapping("/log")
     public LogQuery showLogs(){
-        return new LogQuery(logRepository);
+        return logService.getLog();
     }
+
+
+
 }

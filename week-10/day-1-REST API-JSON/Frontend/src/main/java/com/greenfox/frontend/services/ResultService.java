@@ -38,4 +38,8 @@ public class ResultService {
     public Result getArrayElementsDoubled(What what){
         return new Result<>(Arrays.stream(what.getNumbers()).map(i -> i * 2));
     }
+
+    public Boolean resultArrayHandlerValidator(What what){
+        return (what.getNumbers() == null && what.getWhat() == null);
+    }
 }
