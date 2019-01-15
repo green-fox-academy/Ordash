@@ -8,7 +8,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
-import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ControllerAdvice
 public class ControllerExceptionHandler {
@@ -21,7 +20,7 @@ public class ControllerExceptionHandler {
 
     @ResponseBody
     @ExceptionHandler(NoInputException.class)
-    ResponseEntity<ErrorMessage> noInputHandler(NoInputException ex){
-        return ResponseEntity.badRequest().body(new ErrorMessage(ex.getMessage()));
+    ResponseEntity<ErrorMessage> noInputHandler(NoInputException exception){
+        return ResponseEntity.badRequest().body(new ErrorMessage(exception.getMessage()));
     }
 }

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Basics_Bana", "Csharp_Basics_Bana\Csharp_Basics_Bana.csproj", "{F06E37FC-0116-4B87-93EC-25FC8BBEA678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06E37FC-0116-4B87-93EC-25FC8BBEA678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06E37FC-0116-4B87-93EC-25FC8BBEA678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06E37FC-0116-4B87-93EC-25FC8BBEA678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06E37FC-0116-4B87-93EC-25FC8BBEA678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
