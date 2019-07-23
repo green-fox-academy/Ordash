@@ -1,0 +1,72 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("bg.jpg");
+}
+
+.mainContainer {
+    font-family: 'Roboto', sans-serif;
+    color: #00a1a1;
+    background-color: white;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 6px;
+}
+
+.header {
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+form {
+    margin-left: 300px;
+}
+
+input {
+    border: 6px solid #af4940;
+    border-radius: 10px;
+}
+
+h1, form {
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #00a1a1;
+    margin: 1em 0;
+    padding: 0;
+}
+
+th {
+    padding: auto;
+    background-color: blue;
+}
+
+table {
+    width: 100%;
+}
+
+button {
+    background-color: #af4940;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-radius: 8px;
+}

@@ -2,6 +2,8 @@ import javax.swing.*;
 
 import java.awt.*;
 
+
+
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Triangles2 {
@@ -14,8 +16,7 @@ public class Triangles2 {
         int x3 = (WIDTH/42);
         int y3 = (int) (8*offset-(((8*offset)/21)*(Math.sqrt(3)/2)))+offset;
 
-
-        int y =0; //(int) (8*offset-(((8*offset)/21)*(Math.sqrt(3)/2))); //the height of the small triangle
+        int y =0;
         int x =0;
         int triOffset=0;
 
@@ -27,17 +28,12 @@ public class Triangles2 {
                 graphics.drawLine(x2+x,y1-y,x3+x,y3-y);  //a side
                 graphics.drawLine(x3+x,y3-y,x1+x,y1-y);  //b side
                 x = triOffset+((WIDTH/21)*j);
-
-
             }
             triOffset += WIDTH/42;
             x=triOffset;
 
             y = (int) (((8*offset)/21)*(Math.sqrt(3)/2))*i;
-
         }
-
-
     }
 
     // Don't touch the code below

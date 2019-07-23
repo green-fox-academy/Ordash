@@ -19,7 +19,7 @@ public class WebShopController {
     private WebShop webshop;
 
     @PostConstruct
-    public void init(){
+    public void init() {
         webshop = new WebShop();
     }
 

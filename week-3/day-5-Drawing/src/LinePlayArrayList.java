@@ -16,20 +16,14 @@ public class LinePlayArrayList {
         for (int i = lines; i < WIDTH ; i+=lines) {
             xCoo.add(i);
             yCoo.add(i);
-
         }
-
-
 
         for (int j = 0; j < xCoo.size(); j++) {
             graphics.setColor(Color.MAGENTA);
             graphics.drawLine(xCoo.get(j), 0,WIDTH,yCoo.get(j));
             graphics.setColor(Color.GREEN);
             graphics.drawLine(0,yCoo.get(j),xCoo.get(j),WIDTH);
-
         }
-
-
     }
 
     // Don't touch the code below

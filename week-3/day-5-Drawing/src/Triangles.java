@@ -5,10 +5,10 @@ import java.awt.*;
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Triangles {
-    public static void mainDraw(Graphics graphics) {
+    static void mainDraw(Graphics graphics) {
 
         int offset = WIDTH / 10; //the 1/10 part of the canvas
-        int x1 = 0 + offset;
+        int x1 = offset;
         int y1 = WIDTH - offset;
         int x2 = (8 * offset / 21) + offset;
         int x3 = (8 * offset / 42) + offset;
@@ -28,7 +28,6 @@ public class Triangles {
                 graphics.drawLine(x3 + x, y3 - y, x1 + x, y1 - y);  //b side
                 x = triOffset + ((8 * offset / 21) * j);
 
-
             }
             triOffset += 8 * offset / 42;
             x = triOffset;
@@ -36,13 +35,11 @@ public class Triangles {
             y = (int) (((8 * offset) / 21) * (Math.sqrt(3) / 2)) * i;
 
         }
-
-
     }
 
     // Don't touch the code below
-    static int WIDTH = 320;
-    static int HEIGHT = 320;
+    static int WIDTH = 600;
+    static int HEIGHT = 720;
 
     public static void main(String[] args) {
         JFrame jFrame = new JFrame("Drawing");

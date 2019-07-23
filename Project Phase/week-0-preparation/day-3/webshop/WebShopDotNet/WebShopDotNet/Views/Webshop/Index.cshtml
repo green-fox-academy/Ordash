@@ -1,0 +1,56 @@
+﻿@page
+@model WebShopDotNet.Models.ShopList
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Welcome to Simba's bank!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="/css/site.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
+<body class="container">
+    <div class="header">
+        <h1 onclick="location.href='/'">My webshop</h1>
+        <form action="/search" method="post">
+            <input type="text" name="search" placeholder="search" />
+            <button type="submit">Search</button>
+        </form>
+        <hr>
+    </div>
+
+    <div class="buttons">
+        <a href="/only-available" ></a>
+        <button type="button" onclick="location.href='/only-available'">Only Available</button>
+        <button type="button" onclick="location.href='/cheapest-first'">Cheapest First</button>
+        <button type="button" onclick="location.href='/contains-nike'">Contains Nike</button>
+        <button type="button" onclick="location.href='/average-stock'">Average Stock</button>
+        <button type="button" onclick="location.href='/most-expensive'">Most Expensive Available</button>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Quantity of stock</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (WebShopDotNet.Models.ShopItem item in ViewBag.Items)
+            {
+
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>@item.QuantityOfStock</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</body>
